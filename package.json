@@ -1,7 +1,7 @@
 {
   "name": "kaizenmfhbaileys",
   "version": "26.0.12",
-  "description": "baileys Ndikz",
+  "description": "baileys Api",
   "keywords": [
     "automation",
     "whatsapp",
@@ -29,7 +29,7 @@
     "axios": "^1.6.0",
     "cache-manager": "^5.7.6",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:nstar-y/libsignal",
+    "libsignal": "git+https://github.com/whiskeysockets/libsignal-node",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
